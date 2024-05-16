@@ -1,0 +1,29 @@
+sort1 uses: Bubble Sort
+
+How do you know?: I timed the run time of 3 lists of the same size. One list was in a random order, one list was in reversed order and final list was sorted.
+The reversed list or the random list would be the "worst case" both taking around 5 seconds to complete. However in the best case, with the list already sorted it took under 1 second.
+For bubble sort the upper bound run time is different from the lower bound run time. Which was observed for this algo.
+
+Run Times:
+random 50,000: 5.811
+reversed 50,000: 4.991
+sorted 50,000: 0.464
+
+sort2 uses: Merge Sort
+
+How do you know?: I timed the run time of 3 lists of the same size. One list was in a random order, one list was in reversed order and final list was sorted.Merge sort is the fastest of the sorting algos and there is no difference between upper and lower bounds for run time. The run times I observed were all under 1 second and all the same.
+
+Run Times:
+random 50,000: 0.570
+reversed 50,000: 0.591
+sorted 50,000: 0.476
+
+sort3 uses: Selection Sort
+
+How do you know?: I timed the run time of 3 lists of the same size. One list was in a random order, one list was in reversed order and final list was sorted. Selection sort has the same upper and lower bound for runtimes.
+In addition, selection sort is slower than merge sort. Given the run times observed were all the same and slow,  sort3 uses a selection sort algo.
+
+Run Times:
+random 50,000: 2.319
+reverse 50,000: 2.603
+sorted 50,000: 2.373
