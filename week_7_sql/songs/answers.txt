@@ -1,0 +1,6 @@
+--Spotify wrapped can use this to create a playlist of the top 100 songs for 2018
+--Spotify wrapped can use this as a sugested party playlist. You can start it off slow and the tempo can rise as the party gets going
+--Spotify wrapped can use this to show listeners songs that meet a certain vibe! This can be a workout playlist given the dancability, enery and valence
+--Spotify wrapped can use this as an shorting point, songs with higher energy can go in a party playlist and songs with lower can go into chill playlists
+-- Spotify can my top playlists by artist and by collabs
+
